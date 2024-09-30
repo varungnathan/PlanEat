@@ -1,0 +1,1 @@
+// Defines the structure and data types for recipe-related requests.

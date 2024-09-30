@@ -1,0 +1,1 @@
+// Defines the schema for user data (e.g., name, email, password, subscription).
